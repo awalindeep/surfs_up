@@ -24,9 +24,11 @@ Weather patterns were determined by writing queries that referenced the hawaii.s
 One of the main concerns for establishing a surf and ice cream shop is whether or not certain times of the year will be better or slower for business. For example, summer months may have better weather than the winter months. Therefore, the key statistical data for the months of June and December have been analyzed and the results are displayed below:
 
 June Statistics:
+
 ![Jun](https://github.com/awalindeep/surfs_up/blob/AwalinGHMAIN/Resources/Jun.png)
 
 December Statistics:
+
 ![Dec](https://github.com/awalindeep/surfs_up/blob/AwalinGHMAIN/Resources/DEC.png)
 
 The key statistics analysis calculates the mean, standard deviation, minimum and maximum values, percentiles, and count; precipitation (prcp) is in total inches and temperature (tob) is the temperature observed in degrees fahrenheit. From a quick glance at the data, it is observed that on average, there is less rain and higher temperatures during the month of June. However, with the data displayed, there is not much disparity between the two months. The temperature is in the 70's during the June and December months with max temperatures in the 80's, and average amount of precipitation jumps from about 0.14 inches to 0.22 inches respectively.
