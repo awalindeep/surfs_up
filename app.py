@@ -38,6 +38,8 @@ def welcome():
         /api/v1.0/tobs<br/>
         /api./v1.0/temp/start/end
         ''')
+
+
 @app.route("/api/v1.0/precipitation")
 def precipitation():
     prev_year = dt.date(2017, 8, 23) - dt.timedelta(days=365)
